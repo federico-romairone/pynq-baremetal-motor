@@ -12,11 +12,13 @@ The final goal is a real-time **DC motor control** using a control loop, startin
 - Document the full workflow for a university **portfolio project**
 
 ## Repository Structure
+```text
 pynq-baremetal-motor/
 ├── hw/          # Vivado block designs and bitstreams
 ├── sw/          # Bare-metal code
 ├── docs/        # Documentation and notes
 ├── .gitignore   # Ignore temporary files
 └── README.md    # Project description
+
 
 
