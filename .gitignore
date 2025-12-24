@@ -1,0 +1,19 @@
+# Vivado / Vitis temporary files
+*.jou
+*.log
+*.str
+*.runs/
+*.cache/
+*.hw/
+*.xsim/
+*.data/
+*.ip_user_files/
+
+# Binary / bitstream files (do not version large files)
+*.bit
+*.elf
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
